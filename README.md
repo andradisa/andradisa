@@ -1,20 +1,12 @@
 **≽^• ˕ • ྀི≼ oi, eu sou a Isa ≽^• ˕ • ྀི≼**
 
+
+
 **Graduanda em Sistemas de Computação (UFF) | Transição de Carreira para Análise de Dados**
 
 Sou formada em **Licenciatura em Letras (Português/Inglês)**, pós-graduada em **Linguagem e Comunicação em Língua Portuguesa** e graduanda em **Tecnologia em Sistemas de Computação pela Universidade Federal Fluminense (UFF)**.
 
 Minha trajetória une a capacidade analítica e de estruturação textual da área de Humanas com a tecnologia e a análise de dados. Busco aplicar Python, SQL, raciocínio lógico e *data storytelling* para investigar bases de dados, extrair insights e construir soluções acionáveis.
-
----
-
-### Competências Transferíveis & Diferencial Analítico
-
-A união entre a bagagem em **Letras e Comunicação** e a graduação em **Sistemas de Computação (UFF)** traz diferenciais estratégicos para a Análise de Dados:
-
--  **Data Storytelling & Comunicação:** Habilidade de traduzir insights quantitativos complexos em narrativas claras, fluidas e acessíveis para diferentes perfis de leitores e stakeholders.
--  **Pensamento Crítico & Análise de Padrões:** Rigor metodológico na interpretação de contextos, validação de hipóteses e identificação de anomalias em conjuntos de dados.
--  **Documentação & Rigor Técnico:** Atenção minuciosa aos detalhes para *Data Cleaning*, estruturação de regras de negócio, *parsing* de dados textuais e documentação limpa de projetos.
 
 ---
 
@@ -34,18 +26,6 @@ A união entre a bagagem em **Letras e Comunicação** e a graduação em **Sist
 
 - **[O Mito do Tijolaço](https://github.com/andradisa/o-mito-do-tijolaco)**
   *Análise exploratória em Python (Pandas e Seaborn) sobre o dataset do Goodreads, investigando a relação entre a extensão das obras, a satisfação dos leitores e o viés de autoseleção.*
-
----
-
-### Cursos & Certificações
-
-| Curso / Certificação | Instituição | Carga Horária / Ano |
-| :--- | :--- | :---: |
-| **Certified Online Fraud Prevention Specialist (COFPS)** | Hack & Fix | 2026 |
-| **Introduction to Cybersecurity** | Cisco Networking Academy | 2026 |
-| **Segurança da Informação e LGPD** | FAETEC EAD (FIC) | 160h • 2026 |
-| **Implementação de Redes de Computadores** | FAETEC EAD (FIC) | 160h • 2026 |
-| **BRITE Modules I & II: Professional Development Program** | U.S. Embassy & Consulate | 100h • 2023 & 2024 |
 
 ---
 
