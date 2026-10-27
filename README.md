@@ -52,8 +52,8 @@ A união entre a bagagem em **Letras e Comunicação** e a graduação em **Sist
 ### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andradeisabelle&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradeisabelle&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andradisa&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradisa&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="150" />
 </p>
 
 ---
