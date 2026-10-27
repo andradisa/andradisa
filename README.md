@@ -45,7 +45,7 @@ A união entre a bagagem em **Letras e Comunicação** e a graduação em **Sist
 | **Introduction to Cybersecurity** | Cisco Networking Academy | 2026 |
 | **Segurança da Informação e LGPD** | FAETEC EAD (FIC) | 160h • 2026 |
 | **Implementação de Redes de Computadores** | FAETEC EAD (FIC) | 160h • 2026 |
-| **BRITE Modules I & II: Professional Development Program** | U.S. Embassy & Consulate | 100h • 2026 |
+| **BRITE Modules I & II: Professional Development Program** | U.S. Embassy & Consulate | 100h • 2023 & 2024 |
 
 ---
 
