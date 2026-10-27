@@ -32,7 +32,7 @@ A união entre a bagagem em **Letras e Comunicação** e a graduação em **Sist
 
 ### 🚀 Projetos em Destaque
 
-- **[📚 O Mito do Tijolaço](https://github.com/andradeisabelle/o-mito-do-tijolaco)**
+- **[📚 O Mito do Tijolaço](https://github.com/andradisa/o-mito-do-tijolaco)**
   *Análise exploratória em Python (Pandas e Seaborn) sobre o dataset do Goodreads, investigando a relação entre a extensão das obras, a satisfação dos leitores e o viés de autoseleção.*
 
 ---
