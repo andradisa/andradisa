@@ -1,6 +1,6 @@
-# Olá, eu sou a Isabelle Andrade 👋
+**≽^• ˕ • ྀི≼ oi, eu sou a Isa**
 
-🎓 **Graduanda em Sistemas de Computação (UFF) | Transição de Carreira para Análise de Dados**
+**Graduanda em Sistemas de Computação (UFF) | Transição de Carreira para Análise de Dados**
 
 Sou formada em **Licenciatura em Letras (Português/Inglês)**, pós-graduada em **Linguagem e Comunicação em Língua Portuguesa** e graduanda em **Tecnologia em Sistemas de Computação pela Universidade Federal Fluminense (UFF)**.
 
@@ -8,17 +8,17 @@ Minha trajetória une a capacidade analítica e de estruturação textual da ár
 
 ---
 
-### 💡 Competências Transferíveis & Diferencial Analítico
+### Competências Transferíveis & Diferencial Analítico
 
 A união entre a bagagem em **Letras e Comunicação** e a graduação em **Sistemas de Computação (UFF)** traz diferenciais estratégicos para a Análise de Dados:
 
-- 💬 **Data Storytelling & Comunicação:** Habilidade de traduzir insights quantitativos complexos em narrativas claras, fluidas e acessíveis para diferentes perfis de leitores e stakeholders.
-- 🔍 **Pensamento Crítico & Análise de Padrões:** Rigor metodológico na interpretação de contextos, validação de hipóteses e identificação de anomalias em conjuntos de dados.
-- ✍️ **Documentação & Rigor Técnico:** Atenção minuciosa aos detalhes para *Data Cleaning*, estruturação de regras de negócio, *parsing* de dados textuais e documentação limpa de projetos.
+-  **Data Storytelling & Comunicação:** Habilidade de traduzir insights quantitativos complexos em narrativas claras, fluidas e acessíveis para diferentes perfis de leitores e stakeholders.
+-  **Pensamento Crítico & Análise de Padrões:** Rigor metodológico na interpretação de contextos, validação de hipóteses e identificação de anomalias em conjuntos de dados.
+-  **Documentação & Rigor Técnico:** Atenção minuciosa aos detalhes para *Data Cleaning*, estruturação de regras de negócio, *parsing* de dados textuais e documentação limpa de projetos.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -30,14 +30,14 @@ A união entre a bagagem em **Letras e Comunicação** e a graduação em **Sist
 
 ---
 
-### 🚀 Projetos em Destaque
+###  Projetos em Destaque
 
-- **[📚 O Mito do Tijolaço](https://github.com/andradisa/o-mito-do-tijolaco)**
+- **[O Mito do Tijolaço](https://github.com/andradisa/o-mito-do-tijolaco)**
   *Análise exploratória em Python (Pandas e Seaborn) sobre o dataset do Goodreads, investigando a relação entre a extensão das obras, a satisfação dos leitores e o viés de autoseleção.*
 
 ---
 
-### 📜 Cursos & Certificações
+### Cursos & Certificações
 
 | Curso / Certificação | Instituição | Carga Horária / Ano |
 | :--- | :--- | :---: |
@@ -49,7 +49,7 @@ A união entre a bagagem em **Letras e Comunicação** e a graduação em **Sist
 
 ---
 
-### 📈 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=andradisa&show_icons=true&bg_color=f6fcde&text_color=2e3440&title_color=1e293b&icon_color=2b5c8f&border_color=d1d5db" alt="Estatísticas do GitHub" height="150" />
@@ -58,6 +58,6 @@ A união entre a bagagem em **Letras e Comunicação** e a graduação em **Sist
 
 ---
 
-### 📫 Conecte-se comigo!
+### Conecte-se comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andradeisabelle/)
