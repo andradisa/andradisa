@@ -1,4 +1,4 @@
-**≽^• ˕ • ྀི≼ oi, eu sou a Isa**
+**≽^• ˕ • ྀི≼ oi, eu sou a Isa ≽^• ˕ • ྀི≼**
 
 **Graduanda em Sistemas de Computação (UFF) | Transição de Carreira para Análise de Dados**
 
